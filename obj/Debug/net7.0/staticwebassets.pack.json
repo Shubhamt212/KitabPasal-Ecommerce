@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KitabPasall.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KitabPasall.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\HarryPotter.png",
+      "PackagePath": "staticwebassets\\images\\HarryPotter.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\Love deception.jpg",
+      "PackagePath": "staticwebassets\\images\\Love deception.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\One true Loves.jpg",
+      "PackagePath": "staticwebassets\\images\\One true Loves.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\The Dragons bride.jpg",
+      "PackagePath": "staticwebassets\\images\\The Dragons bride.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\eight.jpg",
+      "PackagePath": "staticwebassets\\images\\eight.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\five.jpg",
+      "PackagePath": "staticwebassets\\images\\five.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\four.jpg",
+      "PackagePath": "staticwebassets\\images\\four.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\images1.png",
+      "PackagePath": "staticwebassets\\images\\images1.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\images2.png",
+      "PackagePath": "staticwebassets\\images\\images2.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\images3.jpg",
+      "PackagePath": "staticwebassets\\images\\images3.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\images4.png",
+      "PackagePath": "staticwebassets\\images\\images4.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\main1.jpg",
+      "PackagePath": "staticwebassets\\images\\main1.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\main2.jpg",
+      "PackagePath": "staticwebassets\\images\\main2.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\main3.jpg",
+      "PackagePath": "staticwebassets\\images\\main3.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\main4.jpg",
+      "PackagePath": "staticwebassets\\images\\main4.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\nine.jpg",
+      "PackagePath": "staticwebassets\\images\\nine.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\one.jpg",
+      "PackagePath": "staticwebassets\\images\\one.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\part1.png",
+      "PackagePath": "staticwebassets\\images\\part1.png"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\six.jpg",
+      "PackagePath": "staticwebassets\\images\\six.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\ten.jpg",
+      "PackagePath": "staticwebassets\\images\\ten.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\three.jpg",
+      "PackagePath": "staticwebassets\\images\\three.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\images\\two.jpg",
+      "PackagePath": "staticwebassets\\images\\two.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\js\\imageRotator.js",
+      "PackagePath": "staticwebassets\\js\\imageRotator.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\1764f0d2-8ad0-4d1e-b5cc-4febe07c4111_two.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1764f0d2-8ad0-4d1e-b5cc-4febe07c4111_two.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\27c4f40e-996e-409a-8e45-1df320e9bbb8_Love deception.jpg",
+      "PackagePath": "staticwebassets\\uploads\\27c4f40e-996e-409a-8e45-1df320e9bbb8_Love deception.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\3d560f00-36ac-478a-8e02-9be7e50826e9_one.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3d560f00-36ac-478a-8e02-9be7e50826e9_one.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\5493e66e-29d0-4115-957f-785d75e6be46_ten.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5493e66e-29d0-4115-957f-785d75e6be46_ten.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\5c2aa8b1-496b-44ec-a740-877b74e9687d_The Dragons bride.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5c2aa8b1-496b-44ec-a740-877b74e9687d_The Dragons bride.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\c1f1197d-4049-43f0-958c-2e32168ec3de_four.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c1f1197d-4049-43f0-958c-2e32168ec3de_four.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\dce6ce33-ca61-495e-a93d-7ef925d19f83_One true Loves.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dce6ce33-ca61-495e-a93d-7ef925d19f83_One true Loves.jpg"
+    },
+    {
+      "Id": "D:\\source\\repos\\PracticalApps\\KitabPasall\\wwwroot\\uploads\\fcd0165b-bed5-404d-8581-78cead110819_three.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fcd0165b-bed5-404d-8581-78cead110819_three.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KitabPasall.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KitabPasall.props",
+      "PackagePath": "build\\KitabPasall.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KitabPasall.props",
+      "PackagePath": "buildMultiTargeting\\KitabPasall.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KitabPasall.props",
+      "PackagePath": "buildTransitive\\KitabPasall.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

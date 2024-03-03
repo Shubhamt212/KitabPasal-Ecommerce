@@ -1,0 +1,65 @@
+﻿@model IEnumerable<KitabPasall.Models.Available>
+@{
+    ViewData["Title"] = "";
+}
+<h2>@ViewData["Title"]</h2>
+
+<table class="table" border="1">
+    <thead>
+        <tr border="1"> 
+            <th>Image</th>
+           
+                <th>Title</th>
+           
+                <th>Author</th>
+          
+                <th>Price</th>
+        
+                <th>Stock Quantity</th>
+         
+                <th>Published Date</th>
+         
+                <th>Category</th>
+           
+                <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr border="1">
+               
+                    <div class="product-image">
+                <td><img src="@Url.Content($"{book.Imagepath}")" alt="Book Image" width=150px; height=150px;/></td>
+    <div class="product-details">
+ 
+                
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@string.Format("{0:C}", book.Price)</td>
+                <td>@book.StockQuantity</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td>@book.CategoryName</td>
+                <td>
+                    <!--<a asp-action="Details" asp-route-id="@book.BookId" class="details-buy" >Details</a>-->
+                    <a asp-action="Index"  asp-area="" asp-controller="Payments" class="details-buy">Buy</a>
+                    <a asp-action="Index"  asp-area="" asp-controller="Reviews" class="review-link">Review</a>
+                    <li class="nav-item mr-2">
+                    <form method="post" asp-controller="Carts" asp-action="AddToCart">
+                        <input type="hidden" name="bookId" value="@book.BookId" />
+                        <button type="submit" class="btn btn-primary">Add to Cart</button>
+                        </form>
+                    </li>
+                    <!-- Add to Cart Link/Action -->
+
+                </td>
+                </div>
+    </tr>
+             
+                
+           
+
+        }
+        </div>
+    </tbody>
+</table>

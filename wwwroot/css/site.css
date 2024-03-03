@@ -1,0 +1,109 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.img-container {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    object-fit: cover;
+}
+
+.bg-orange {
+    background-color: orange !important;
+}
+
+.img-fluid {
+    width: 50%;
+    height: 100px;
+}
+
+.home {
+    background-color: none;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.product-table th, .product-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.product-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* space dinxa product bich*/
+    background-color: #f9f9f9;
+    border-radius: 8px;/*rounded corner dinxa yesle*/
+    padding:10px; /*Spacing inside product container*/
+
+}
+.product-image{
+    flex:1; /* Adjusts the size of the Image container*/
+    text-align:center;/*centers the image in its container*/
+}
+.product-details{
+    flex:2;/*Adjust according to the image*/
+    padding-left:20px; /*space betweeen Image and details*/
+}
+.details-buy {
+    background-color: #007bff;
+    color:white;
+    padding: 10px 15px;
+    text-decoration:none;
+    border-radius:5px;
+    font-weight:bold;
+}
+.details-buy:hover {
+    background-color: #0056b3;
+    color: #ffffff;
+    text-decoration: none; /* Removes underline on hover */
+}
+.review-link {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.review-link:hover {
+    background-color: #0056b3;
+    color: #ffffff;
+    text-decoration: none; /* Removes underline on hover */
+}
+
+.cart-link {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.cart-link:hover {
+    background-color: #0056b3;
+    color: #ffffff;
+    text-decoration: none; /* Removes underline on hover */
+}

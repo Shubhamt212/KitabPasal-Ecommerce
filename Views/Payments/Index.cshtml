@@ -1,0 +1,51 @@
+﻿@model IEnumerable<KitabPasall.Models.Payment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 align="center">Payment</h1>
+@if(Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr> 
+             <th>Image</th>
+            <th>Name Of Book</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+            <th>Payment Method</th>
+            <th>Payment Status</th></tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <thead>
+                <tr>
+                    
+                    <td><img src="@Url.Content($"{@item.Imagepath}")" alt="Book Image" width=150px; height=150px; /></td>
+                    <td>@item.Title</td>
+                    <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Price *item.Quantity)</td>
+                    <td>
+                        <a asp-action="" asp-controller="Payments" asp-action="esewa">
+                            <button type="submit" class="btn btn-success">Esewa</button>
+                        </a>
+                        <a asp-action="" asp-controller="Payments" asp-action="khalti">
+                            <button type="submit" class="btn btn-success">Khalti</button>
+                        </a>
+                    </td>
+                    
+                </tr>
+               
+                
+            </thead>
+            <thead>
+              
+            </thead>
+        }
+
+    </table>
+}
+
